@@ -1,14 +1,26 @@
 ---
 title: ughhh work out  and it does things
+description: six hunnid thousand
 ---
-five day pplul split
-## [[push]]
+
+five day pplul split <br>
+
+## [[push]] <br>
+
 chest, shoulder, tricep
-## [[pull]]
+
+## [[pull]] <br>
+
 back and bicep
-## [[legs]]
+
+## [[legs]] <br>
+
 yeah
-## [[lower]]
+
+## [[lower]] <br>
+
 mhm
-## [[upper]]
+
+## [[upper]] <br>
+
 yup
